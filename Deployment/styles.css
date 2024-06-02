@@ -1,0 +1,41 @@
+.gradio-container {
+    background-color: #AFCBFF;
+    color: white;
+}
+.gradio-input {
+    border-color: #bfc7e3;
+    border-radius: 1px;
+    padding: 10px;
+    font-size: 16px;
+}
+.inputs {
+    background-color: #FFEDE1;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 16px;
+    color: white;
+}
+.outputs {
+    background-color: #D7F9FF;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 16px;
+    color: white;
+}
+h2 {
+    color: black;
+}
+.md svelte-8tpqd2 prose {
+    color: black;
+}
+li {
+    color: black;
+    font-size: 16px;
+}
+strong {
+    color: black;
+}
+span {
+    background-color: #F9FBF2;
+    color: black;
+}
